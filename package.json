@@ -1,0 +1,14 @@
+{
+  "name": "Simpla Recipes",
+  "description": "web app for recipes",
+  "author": "matjazi-k",
+  "dependencies": {
+    "axios": "*",
+    "express": "*",
+    "express-session": "*",
+    "formidable": "*",
+    "hbs": "*",
+    "sqlite3": "*"
+  },
+  "private": true
+}
