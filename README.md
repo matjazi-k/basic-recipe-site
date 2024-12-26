@@ -1,1 +1,1 @@
-"# Basic recipe site" 
+# Basic recipe site
